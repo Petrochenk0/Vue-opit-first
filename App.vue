@@ -33,7 +33,6 @@ export default{
 </script>
 
 
-
 <template>
     <div class="wrapper">
         <h1>Погодное приложение</h1>
