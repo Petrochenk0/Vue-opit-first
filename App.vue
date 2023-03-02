@@ -44,8 +44,7 @@ export default{
         <div v-show="info !=null" >
             <p>{{ showTemper }}</p>
         </div>
-        
-        
+         
     </div>
 </template>
 
