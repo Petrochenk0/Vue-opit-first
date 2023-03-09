@@ -17,6 +17,7 @@ export default{
             return this.info.data;
         }
     },
+    
     methods:{
         getPogoda(){
             if(this.city.trim().length < 2){
