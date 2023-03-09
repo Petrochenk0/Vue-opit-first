@@ -89,7 +89,7 @@ export default{
         background-color: rgb(144, 127, 70);
         cursor: not-allowed;
     }
-    
+   
     .wrapper button{
         background-color: rgb(202, 160, 24);
         color:white;
