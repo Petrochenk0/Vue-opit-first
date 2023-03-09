@@ -8,6 +8,7 @@ export default{
             info:"",
         }
     },
+    
     computed:{
         cityName(){
             return "<" + this.city + ">"
