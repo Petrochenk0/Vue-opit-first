@@ -7,7 +7,7 @@ export default{
             error:"",
             info:"",
         }
-       
+      
     },
     
     computed:{
